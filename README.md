@@ -332,24 +332,7 @@ journey
 - [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/)
 - [axe DevTools](https://www.deque.com/axe/devtools/)
 
-## 🤝 Contribution Guide
-
-**Improve this documentation**:  
-1. Fork repository
-2. Create feature branch (`git checkout -b feat/new-section`)
-3. Add examples with visual descriptions
-4. Update table of contents
-5. Submit pull request
-
-**Contribution Guidelines**:  
-- Use modern HTML5 standards
-- Include accessibility features
-- Provide browser compatibility notes
-- Keep examples self-contained
-- Add visual result descriptions
-
 ---
 
-**Last Updated**: June 2023  
-[View Changelog](#) | [Report Issue](#) | [Edit This Page](#)  
+**Last Updated**: June 2025
 *Created with ❤️ for the web community*
