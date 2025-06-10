@@ -1,20 +1,6 @@
 # 🌐 Ultimate HTML Reference Guide  
 *Master HyperText Markup Language with Interactive Examples and Visual References*
 
-```mermaid
-graph LR
-  A[HTML Fundamentals] --> B[Document Structure]
-  A --> C[Content Elements]
-  A --> D[Media Integration]
-  A --> E[Data Presentation]
-  A --> F[User Interaction]
-  B --> G[Semantic Layout]
-  C --> H[Text Formatting]
-  D --> I[Responsive Images]
-  E --> J[Accessible Tables]
-  F --> K[Validation Forms]
-```
-
 ## 🏗️ HTML Document Anatomy
 
 ### Essential Structure
