@@ -286,20 +286,6 @@ CSS
 
 ## 📚 Progressive Learning Path
 
-```mermaid
-journey
-    title HTML Mastery Journey
-    section Foundation
-      Learn Basic Tags: 5: HTML
-      Semantic Structure: 3: HTML
-    section Interactivity
-      Forms and Validation: 4: HTML
-      Multimedia: 3: HTML
-    section Advanced
-      Web Components: 4: HTML
-      Accessibility: 5: HTML
-```
-
 1. **Beginner**: Tags, Attributes, Basic Structure
 2. **Intermediate**: Forms, Tables, Media, Semantics
 3. **Advanced**: Web Components, Shadow DOM, ARIA
